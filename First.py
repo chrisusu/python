@@ -1,2 +1,1 @@
-print("hello world")
-print("di er ci tijiao")
+print("测试在git上修改")
